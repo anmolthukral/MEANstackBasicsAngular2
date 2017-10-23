@@ -1,0 +1,29 @@
+{
+  "name": "angular2",
+  "version": "1.0.0",
+  "description": "something mean and something angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolthukral/MEANstackBasicsAngular2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "Angular2"
+  ],
+  "author": "anmolthukral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmolthukral/MEANstackBasicsAngular2/issues"
+  },
+  "homepage": "https://github.com/anmolthukral/MEANstackBasicsAngular2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.12.3"
+  }
+}
